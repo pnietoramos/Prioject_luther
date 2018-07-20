@@ -1,0 +1,285 @@
+,Unnamed: 0,City,State,median_income,murders_2016_pro10e5,assaults_2016_pro10e5
+0,0,Los Angeles,California,"54,432",7.3,396.1
+1,1,Chicago,Illinois,"53,006",28.1,580.3
+2,2,Houston,Texas,"47,793",12.9,534.9
+3,3,Phoenix,Arizona,"52,062",9.2,394.7
+4,4,Philadelphia,Pennsylvania,"41,449",17.4,496.7
+5,5,San Antonio,Texas,"49,268",9.9,479.3
+6,6,San Diego,California,"71,481",3.5,235.1
+7,7,Dallas,Texas,"47,243",12.9,342.9
+8,8,San Jose,California,"101,940",4.5,208.8
+9,9,Austin,Texas,"66,697",4.1,215.8
+10,10,Jacksonville,Florida,"51,298",12.0,388.2
+11,11,San Francisco,California,"103,801",6.5,300.3
+12,12,Columbus,Ohio,"49,602",10.6,162.1
+13,13,Fort Worth,Texas,"56,428",7.7,323.2
+14,14,Indianapolis,Indiana,"44,615",17.1,819.4
+15,15,Charlotte,North Carolina,"61,017",,
+16,16,Seattle,Washington ,"83,476",2.7,353.3
+17,17,Denver,Colorado,"61,105",8.2,402.3
+18,18,Boston,Massachusetts,"63,621",7.3,431.8
+19,19,El Paso,Texas,"43,200",2.5,272.8
+20,20,Detroit,Michigan,"28,099",45.2,"1,475.6"
+21,21,Nashville,Tennessee,,,
+22,22,Memphis,Tennessee,"38,826",29.9,"1,223.1"
+23,23,Portland,Oregon,"62,127",2.2,276.3
+24,24,Oklahoma City,Oklahoma,"52,915",10.9,524.9
+25,25,Las Vegas,Nevada,"51,115",,
+26,26,Louisville,Kentucky,"38,005",,
+27,27,Baltimore,Maryland,"47,350",51.4,833.9
+28,28,Milwaukee,Wisconsin,"38,097",23.5,883.0
+29,29,Albuquerque,New Mexico,"50,522",10.9,684.9
+30,30,Tucson,Arizona,"40,021",5.6,470.5
+31,31,Fresno,California,"44,905",7.4,359.6
+32,32,Sacramento,California,"55,187",8.3,461.0
+33,33,Mesa,Arizona,"52,393",4.0,273.9
+34,34,Kansas City,Missouri,"51,235",27.0,"1,145.8"
+35,35,Atlanta,Georgia ,"53,843",23.5,593.3
+36,36,Long Beach,California,"60,075",6.9,310.2
+37,37,Omaha,Nebraska,"52,672",6.5,369.1
+38,38,Raleigh,North Carolina,"64,456",2.8,230.1
+39,39,Colorado Springs,Colorado,"60,308",5.2,300.4
+40,40,Miami,Florida,"34,901",12.2,534.2
+41,41,Virginia Beach,Virginia,"71,117",4.6,62.9
+42,42,Oakland,California,"68,060",20.0,616.7
+43,43,Minneapolis,Minnesota,"56,255",8.4,549.0
+44,44,Tulsa,Oklahoma,"43,134",17.7,701.2
+45,45,Arlington,Texas,"54,272",5.3,331.8
+46,46,New Orleans,Louisiana,"38,681",43.8,526.9
+47,47,Wichita,Kansas,"49,202",7.9,803.3
+48,48,Cleveland,Ohio,"27,551",35.0,698.0
+49,49,Tampa,Florida,"50,405",7.7,348.2
+50,50,Bakersfield,California,"59,233",8.4,292.5
+51,51,Aurora,Colorado,"59,467",6.0,287.1
+52,52,Anaheim,California,"64,464",2.0,194.9
+53,53,Honolulu,Hawaii,"69,964",,
+54,54,Santa Ana,California,"61,895",6.8,277.4
+55,55,Riverside,California,"63,548",3.1,302.9
+56,56,Corpus Christi,Texas,"54,344",7.3,494.3
+57,57,Lexington,Kentucky,,,
+58,58,Stockton,California,"49,271",15.9,979.1
+59,59,St. Louis,Missouri,"40,346",59.8,"1,156.1"
+60,60,St. Paul,Minnesota,"54,085",6.3,351.1
+61,61,Henderson,Nevada,"68,191",3.4,95.3
+62,62,Pittsburgh,Pennsylvania,"44,707",18.8,399.7
+63,63,Cincinnati,Ohio,"38,539",19.1,380.1
+64,64,Anchorage,Alaska,"85,634",9.4,721.2
+65,65,Greensboro,North Carolina,"45,064",9.1,377.3
+66,66,Plano,Texas,"88,398",1.7,72.2
+67,67,Newark,New Jersey,"31,100",35.5,392.3
+68,68,Lincoln,Nebraska,"55,792",3.6,207.4
+69,69,Orlando,Florida,"46,761",30.2,550.6
+70,70,Irvine,California,"97,496",1.1,21.0
+71,71,Toledo,Ohio,"35,301",13.3,777.0
+72,72,Jersey City,New Jersey,"63,227",9.0,232.6
+73,73,Chula Vista,California,"68,699",0.4,158.8
+74,74,Durham,North Carolina,"52,208",13.2,519.2
+75,75,Fort Wayne,Indiana,"45,232",16.4,188.0
+76,76,St. Petersburg,Florida,"51,474",7.7,396.5
+77,77,Laredo,Texas,"36,195",4.6,239.1
+78,78,Buffalo,New York,"32,883",17.1,625.8
+79,79,Madison,Wisconsin,"61,284",3.2,184.0
+80,80,Lubbock,Texas,"48,103",2.4,825.2
+81,81,Chandler,Arizona,"75,369",1.5,102.7
+82,82,Scottsdale,Arizona,"81,381",1.7,67.7
+83,83,Reno,Nevada,"51,313",3.7,480.9
+84,84,Glendale,Arizona,"51,022",9.5,246.2
+85,85,Norfolk,Virginia,"46,467",18.7,386.6
+86,86,North Las Vegas,Nevada,"55,972",10.9,680.8
+87,87,Gilbert,Arizona,"91,576",1.2,47.3
+88,88,Chesapeake,Virginia,"72,928",5.9,279.8
+89,89,Irving,Texas,"61,362",2.1,110.5
+90,90,Hialeah,Florida,"30,495",2.9,153.3
+91,91,Garland,Texas,"57,063",2.9,124.8
+92,92,Fremont,California,"122,419",0.0,75.0
+93,93,Richmond,Virginia,"42,373",19.5,247.7
+94,94,Boise,Idaho,"55,199",2.7,207.0
+95,95,Baton Rouge,Louisiana,"38,470",20.6,503.1
+96,96,Des Moines,Iowa,"49,203",6.1,485.1
+97,97,Spokane,Washington,"45,676",3.7,364.4
+98,98,San Bernardino,California,"39,472",28.5,823.7
+99,99,Modesto,California,"55,013",6.1,707.9
+100,100,Tacoma,Washington,"55,996",6.2,613.6
+101,101,Fontana,California,"66,073",3.1,247.2
+102,102,Santa Clarita,California,"94,649",0.9,73.8
+103,103,Birmingham,Alabama,"36,241",37.2,"1,109.3"
+104,104,Oxnard,California,"64,279",5.7,209.5
+105,105,Fayetteville,North Carolina,"42,918",12.1,380.5
+106,106,Rochester,New York,"31,693",20.5,463.2
+107,107,Moreno Valley,California,"64,008",4.4,240.5
+108,108,Glendale,California,"64,611",0.5,51.3
+109,109,Huntington Beach,California,"86,112",1.0,112.2
+110,110,Aurora,Illinois,"66,540",3.5,217.2
+111,111,Salt Lake City,Utah,"56,994",6.7,532.2
+112,112,Amarillo,Texas,"51,466",5.5,490.2
+113,113,Montgomery,Alabama,"41,625",15.0,338.2
+114,114,Grand Rapids,Michigan,"45,795",5.1,434.5
+115,115,Little Rock,Arkansas,"45,605",21.1,"1,099.6"
+116,116,Akron,Ohio,"35,184",17.2,281.4
+117,117,Augusta,Georgia,"38,238",,
+118,118,Huntsville,Alabama,"51,895",9.3,624.7
+119,119,Columbus,Georgia,"40,123",11.9,301.0
+120,120,Grand Prairie,Texas,"62,391",4.7,133.5
+121,121,Shreveport,Louisiana,"34,647",21.4,597.6
+122,122,Overland Park,Kansas,"78,602",2.1,108.9
+123,123,Tallahassee,Florida,"43,663",5.7,554.9
+124,124,Mobile,Alabama,"39,463",17.6,455.3
+125,125,Port St. Lucie,Florida,"51,447",1.6,108.0
+126,126,Knoxville,Tennessee,"35,816",9.6,585.8
+127,127,Worcester,Massachusetts,"44,020",4.3,637.6
+128,128,Tempe,Arizona,"56,365",2.2,283.2
+129,129,Cape Coral,Florida,"57,006",2.8,95.8
+130,130,Brownsville,Texas,"36,584",2.2,142.3
+131,131,McKinney,Texas,"87,356",2.9,73.1
+132,132,Providence,Rhode Island,"40,335",5.6,339.6
+133,133,Fort Lauderdale,Florida,"52,813",9.9,315.6
+134,134,Newport News,Virginia,"50,524",16.5,263.1
+135,135,Chattanooga,Tennessee,"41,226",14.6,735.1
+136,136,Rancho Cucamonga,California,"81,286",0.6,76.8
+137,137,Frisco,Texas,"124,829",1.3,49.8
+138,138,Sioux Falls,South Dakota,"56,867",3.4,358.5
+139,139,Oceanside,California,"60,487",4.5,227.2
+140,140,Ontario,California,"55,982",4.6,194.1
+141,141,Vancouver,Washington,"56,615",0.0,234.4
+142,142,Santa Rosa,California,"71,854",2.8,248.3
+143,143,Garden Grove,California,"63,566",2.3,179.9
+144,144,Elk Grove,California,"91,899",,
+145,145,Pembroke Pines,Florida,"62,812",0.6,126.5
+146,146,Salem,Oregon,"51,945",4.2,216.2
+147,147,Eugene,Oregon,"46,189",3.6,220.8
+148,148,Peoria,Arizona,"68,882",1.1,129.3
+149,149,Corona,California,"71,584",1.8,41.4
+150,150,Springfield,Missouri,"33,286",4.8,904.3
+151,151,Jackson,Mississippi,"39,724",34.1,355.7
+152,152,Cary,North Carolina,"100,167",0.6,37.6
+153,153,Fort Collins,Colorado,"59,357",3.0,160.3
+154,154,Hayward,California,"75,352",8.1,126.6
+155,155,Lancaster,California,"46,910",4.3,421.7
+156,156,Alexandria,Virginia,"87,920",4.5,79.8
+157,157,Salinas,California,"58,089",22.1,352.2
+158,158,Palmdale,California,"52,423",5.0,264.7
+159,159,Sunnyvale,California,"121,546",0.6,53.9
+160,160,Hollywood,Florida,"52,682",4.6,196.0
+161,161,Pasadena,Texas,"50,043",1.9,240.5
+162,162,Clarksville,Tennessee,"51,696",7.9,470.7
+163,163,Pomona,California,"53,972",8.4,253.7
+164,164,Kansas City,Kansas,"42,141",18.6,377.1
+165,165,Macon,Georgia,"29,145",19.7,315.9
+166,166,Escondido,California,"60,328",2.6,230.9
+167,167,Joliet,Illinois,"63,864",6.8,202.2
+168,168,Naperville,Illinois,"116,482",0.0,29.0
+169,169,Rockford,Illinois,"39,537",17.6,"1,184.2"
+170,170,Torrance,California,"85,710",0.7,73.8
+171,171,Savannah,Georgia,"38,879",,
+172,172,Killeen,Texas,"47,556",11.2,430.7
+173,173,Bellevue,Washington,"113,877",0.0,45.0
+174,174,Mesquite,Texas,"55,416",1.4,195.5
+175,175,Syracuse,New York,"33,695",20.8,441.9
+176,176,McAllen,Texas,"43,062",2.1,75.2
+177,177,Pasadena,California,"76,263",1.4,184.9
+178,178,Orange,California,"84,141",0.7,102.2
+179,179,Fullerton,California,"72,656",3.5,131.7
+180,180,Dayton,Ohio,"28,894",25.7,525.5
+181,181,Olathe,Kansas,"82,242",0.7,106.6
+182,182,Thornton,Colorado,"75,289",3.7,214.7
+183,183,Waco,Texas,"37,722",3.0,305.7
+184,184,Murfreesboro,Tennessee,"54,654",4.6,444.8
+185,185,Denton,Texas,"54,528",3.7,131.3
+186,186,Midland,Texas,"64,616",2.2,211.9
+187,187,Carrollton,Texas,"70,673",2.9,73.5
+188,188,Roseville,California,"86,275",0.0,62.6
+189,189,Warren,Michigan,"46,249",4.4,325.9
+190,190,Charleston,South Carolina,"61,467",8.1,182.0
+191,191,Hampton,Virginia,"50,435",17.7,146.1
+0,2,Surprise,Arizona,60521,4.6,60.5
+1,3,Columbia,South Carolina,48577,7.4,536.1
+2,4,Visalia,California,55280,6.1,216.5
+3,5,Sterling Heights,Michigan,61828,0.8,138.1
+4,6,Gainesville,Florida,32968,2.3,408.4
+5,7,Cedar Rapids,Iowa,57135,3.0,164.7
+6,8,New Haven,Connecticut,40457,10.0,567.4
+7,9,Stamford,Connecticut,87662,1.5,154.5
+8,10,Elizabeth,New Jersey,42690,3.9,378.0
+9,11,Concord,California,76335,0.8,197.1
+10,12,Thousand Oaks,California,100578,0.0,77.8
+11,13,Kent,Washington,65423,3.9,100.6
+12,14,Santa Clara,California,110110,2.3,63.2
+13,15,Simi Valley,California,94363,1.6,82.5
+14,16,Lafayette,Louisiana,48139,8.5,359.1
+15,17,Topeka,Kansas,45054,13.4,308.3
+16,18,Athens,Georgia,30753,,
+17,19,Round Rock,Texas,72001,0.0,82.1
+18,20,Hartford,Connecticut,36637,11.3,644.9
+19,21,Norman,Oklahoma,52041,0.0,166.2
+20,22,Victorville,California,48065,5.7,381.6
+21,23,Fargo,North Dakota,52699,2.5,261.5
+22,24,Berkeley,California,78121,1.6,150.8
+23,25,Vallejo,California,65241,12.3,469.4
+24,26,Abilene,Texas,45713,6.5,273.4
+25,27,Columbia,Missouri,50044,5.0,225.4
+26,28,Ann Arbor,Michigan,60745,0.8,106.2
+27,29,Allentown,Pennsylvania,35813,8.3,176.6
+28,30,Pearland,Texas,91010,1.9,54.4
+29,31,Beaumont,Texas,42077,11.8,707.6
+30,32,Wilmington,North Carolina,38800,15.9,418.8
+31,33,Evansville,Indiana,38865,6.7,391.1
+32,34,Arvada,Colorado,75082,1.7,77.1
+33,35,Provo,Utah,46883,1.7,60.5
+34,36,Independence,Missouri,45970,7.7,343.5
+35,37,Lansing,Michigan,40160,7.8,807.3
+36,38,Odessa,Texas,56265,3.2,633.9
+37,39,Richardson,Texas,82241,4.4,56.5
+38,40,Fairfield,California,69235,6.1,232.3
+39,41,El Monte,California,48434,2.6,210.5
+40,42,Rochester,Minnesota,67712,0.0,103.3
+41,43,Clearwater,Florida,41844,4.4,348.5
+42,44,Carlsbad,California,113217,0.0,106.9
+43,45,Springfield,Illinois,48179,5.1,812.4
+44,46,Temecula,California,90179,0.0,239.1
+45,47,West Jordan,Utah,71517,1.0,120.0
+46,48,Costa Mesa,California,81019,0.9,181.0
+47,49,Miami Gardens,Florida,47834,,
+48,50,Cambridge,Massachusetts,86657,1.8,169.3
+49,51,College Station,Texas,39068,2.7,126.4
+50,52,Murrieta,California,81467,,
+51,53,Downey,California,65578,0.9,141.2
+52,54,Peoria,Illinois,47369,8.7,425.7
+53,55,Westminster,Colorado,71313,3.5,125.7
+54,56,Elgin,Illinois,61070,1.8,121.4
+55,57,Antioch,California,81203,8.0,359.5
+56,58,Palm Bay,Florida,45712,3.7,374.9
+57,59,High Point,North Carolina,41250,6.3,411.0
+58,60,Lowell,Massachusetts,55383,0.0,209.0
+59,61,Manchester,New Hampshire,54664,4.5,419.6
+60,62,Pueblo,Colorado,38380,8.2,615.9
+61,63,Gresham,Oregon,58042,4.5,210.8
+62,64,North Charleston,South Carolina,35600,29.0,524.0
+63,65,Ventura,California,69933,7.3,179.6
+64,66,Inglewood,California,51620,14.3,314.1
+65,67,Pompano Beach,Florida,42736,6.4,459.9
+66,68,West Palm Beach,Florida,51217,9.3,499.7
+67,69,Everett,Washington,52626,0.9,254.2
+68,70,Richmond,California,61814,18.9,506.9
+69,71,Clovis,California,65976,1.9,137.9
+70,72,Waterbury,Connecticut,38752,9.2,271.9
+71,73,Broken Arrow,Oklahoma,70221,2.8,84.2
+72,74,Lakeland,Florida,47311,3.8,132.4
+73,75,West Covina,California,74076,3.7,122.1
+74,76,Boulder,Colorado,70158,0.0,161.2
+75,77,Daly City,California,89843,0.9,121.7
+76,78,Santa Maria,California,55775,8.5,267.4
+77,79,Hillsboro,Oregon,75466,0.0,148.4
+78,80,Norwalk,California,63143,6.5,237.3
+79,81,Lewisville,Texas,58361,0.0,110.6
+80,82,Tyler,Texas,47811,4.8,241.8
+81,83,League City,Texas,104736,4.9,19.7
+82,84,Burbank,California,72618,0.0,128.6
+83,85,San Mateo,California,114444,1.0,170.8
+84,86,Wichita Falls,Texas,42459,8.6,180.5
+85,87,El Cajon,California,45577,1.0,193.3
+86,88,Davenport,Iowa,45964,6.8,484.9
+87,89,South Bend,Indiana,36711,13.8,556.0
+88,90,Las Cruces,New Mexico,39201,4.9,150.5
+89,91,Vista,California,61433,2.0,224.8
+90,92,Renton,Washington,71951,1.1,154.8
+91,93,Sparks,Nevada,57444,3.1,325.9
